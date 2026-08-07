@@ -1,0 +1,2148 @@
+{
+  "library": "Guzheng (Plucked Sliced)",
+  "format": "opus-48k+flac",
+  "opusFileCount": 354,
+  "flacFileCount": 354,
+  "files": [
+    {
+      "file": "slice_0006_midi057.opus",
+      "name": "slice_0006_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0006_midi057.opus",
+      "size": 29787
+    },
+    {
+      "file": "slice_0007_midi074.opus",
+      "name": "slice_0007_midi074",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0007_midi074.opus",
+      "size": 15020
+    },
+    {
+      "file": "slice_0008_midi072.opus",
+      "name": "slice_0008_midi072",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0008_midi072.opus",
+      "size": 14136
+    },
+    {
+      "file": "slice_0009_midi072.opus",
+      "name": "slice_0009_midi072",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0009_midi072.opus",
+      "size": 11500
+    },
+    {
+      "file": "slice_0010_midi072.opus",
+      "name": "slice_0010_midi072",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0010_midi072.opus",
+      "size": 16795
+    },
+    {
+      "file": "slice_0012_midi067.opus",
+      "name": "slice_0012_midi067",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0012_midi067.opus",
+      "size": 9252
+    },
+    {
+      "file": "slice_0013_midi067.opus",
+      "name": "slice_0013_midi067",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0013_midi067.opus",
+      "size": 7267
+    },
+    {
+      "file": "slice_0015_midi065.opus",
+      "name": "slice_0015_midi065",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0015_midi065.opus",
+      "size": 7690
+    },
+    {
+      "file": "slice_0019_midi065.opus",
+      "name": "slice_0019_midi065",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0019_midi065.opus",
+      "size": 23224
+    },
+    {
+      "file": "slice_0028_midi057.opus",
+      "name": "slice_0028_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0028_midi057.opus",
+      "size": 31062
+    },
+    {
+      "file": "slice_0029_midi057.opus",
+      "name": "slice_0029_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0029_midi057.opus",
+      "size": 30053
+    },
+    {
+      "file": "slice_0032_midi057.opus",
+      "name": "slice_0032_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0032_midi057.opus",
+      "size": 35836
+    },
+    {
+      "file": "slice_0033_midi055.opus",
+      "name": "slice_0033_midi055",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0033_midi055.opus",
+      "size": 13794
+    },
+    {
+      "file": "slice_0034_midi055.opus",
+      "name": "slice_0034_midi055",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0034_midi055.opus",
+      "size": 7788
+    },
+    {
+      "file": "slice_0036_midi055.opus",
+      "name": "slice_0036_midi055",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0036_midi055.opus",
+      "size": 2535
+    },
+    {
+      "file": "slice_0037_midi072.opus",
+      "name": "slice_0037_midi072",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0037_midi072.opus",
+      "size": 15741
+    },
+    {
+      "file": "slice_0041_midi055.opus",
+      "name": "slice_0041_midi055",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0041_midi055.opus",
+      "size": 7062
+    },
+    {
+      "file": "slice_0043_midi060.opus",
+      "name": "slice_0043_midi060",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0043_midi060.opus",
+      "size": 23617
+    },
+    {
+      "file": "slice_0044_midi060.opus",
+      "name": "slice_0044_midi060",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0044_midi060.opus",
+      "size": 12956
+    },
+    {
+      "file": "slice_0045_midi060.opus",
+      "name": "slice_0045_midi060",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0045_midi060.opus",
+      "size": 11592
+    },
+    {
+      "file": "slice_0047_midi057.opus",
+      "name": "slice_0047_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0047_midi057.opus",
+      "size": 19005
+    },
+    {
+      "file": "slice_0048_midi057.opus",
+      "name": "slice_0048_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0048_midi057.opus",
+      "size": 16945
+    },
+    {
+      "file": "slice_0049_midi057.opus",
+      "name": "slice_0049_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0049_midi057.opus",
+      "size": 19925
+    },
+    {
+      "file": "slice_0050_midi055.opus",
+      "name": "slice_0050_midi055",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0050_midi055.opus",
+      "size": 17958
+    },
+    {
+      "file": "slice_0057_midi057.opus",
+      "name": "slice_0057_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0057_midi057.opus",
+      "size": 27296
+    },
+    {
+      "file": "slice_0059_midi057.opus",
+      "name": "slice_0059_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0059_midi057.opus",
+      "size": 4631
+    },
+    {
+      "file": "slice_0062_midi057.opus",
+      "name": "slice_0062_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0062_midi057.opus",
+      "size": 4202
+    },
+    {
+      "file": "slice_0074_midi057.opus",
+      "name": "slice_0074_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0074_midi057.opus",
+      "size": 16169
+    },
+    {
+      "file": "slice_0077_midi057.opus",
+      "name": "slice_0077_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0077_midi057.opus",
+      "size": 2638
+    },
+    {
+      "file": "slice_0080_midi057.opus",
+      "name": "slice_0080_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0080_midi057.opus",
+      "size": 5487
+    },
+    {
+      "file": "slice_0081_midi057.opus",
+      "name": "slice_0081_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0081_midi057.opus",
+      "size": 23951
+    },
+    {
+      "file": "slice_0082_midi056.opus",
+      "name": "slice_0082_midi056",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0082_midi056.opus",
+      "size": 14730
+    },
+    {
+      "file": "slice_0083_midi057.opus",
+      "name": "slice_0083_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0083_midi057.opus",
+      "size": 15330
+    },
+    {
+      "file": "slice_0084_midi057.opus",
+      "name": "slice_0084_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0084_midi057.opus",
+      "size": 13300
+    },
+    {
+      "file": "slice_0085_midi071.opus",
+      "name": "slice_0085_midi071",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0085_midi071.opus",
+      "size": 2872
+    },
+    {
+      "file": "slice_0091_midi072.opus",
+      "name": "slice_0091_midi072",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0091_midi072.opus",
+      "size": 3348
+    },
+    {
+      "file": "slice_0096_midi072.opus",
+      "name": "slice_0096_midi072",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0096_midi072.opus",
+      "size": 2725
+    },
+    {
+      "file": "slice_0099_midi072.opus",
+      "name": "slice_0099_midi072",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0099_midi072.opus",
+      "size": 3638
+    },
+    {
+      "file": "slice_0104_midi066.opus",
+      "name": "slice_0104_midi066",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0104_midi066.opus",
+      "size": 2715
+    },
+    {
+      "file": "slice_0110_midi067.opus",
+      "name": "slice_0110_midi067",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0110_midi067.opus",
+      "size": 7705
+    },
+    {
+      "file": "slice_0111_midi057.opus",
+      "name": "slice_0111_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0111_midi057.opus",
+      "size": 19672
+    },
+    {
+      "file": "slice_0112_midi072.opus",
+      "name": "slice_0112_midi072",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0112_midi072.opus",
+      "size": 2561
+    },
+    {
+      "file": "slice_0113_midi057.opus",
+      "name": "slice_0113_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0113_midi057.opus",
+      "size": 14703
+    },
+    {
+      "file": "slice_0116_midi072.opus",
+      "name": "slice_0116_midi072",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0116_midi072.opus",
+      "size": 3732
+    },
+    {
+      "file": "slice_0118_midi072.opus",
+      "name": "slice_0118_midi072",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0118_midi072.opus",
+      "size": 3671
+    },
+    {
+      "file": "slice_0122_midi057.opus",
+      "name": "slice_0122_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0122_midi057.opus",
+      "size": 2626
+    },
+    {
+      "file": "slice_0123_midi057.opus",
+      "name": "slice_0123_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0123_midi057.opus",
+      "size": 14350
+    },
+    {
+      "file": "slice_0124_midi057.opus",
+      "name": "slice_0124_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0124_midi057.opus",
+      "size": 2930
+    },
+    {
+      "file": "slice_0133_midi057.opus",
+      "name": "slice_0133_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0133_midi057.opus",
+      "size": 19104
+    },
+    {
+      "file": "slice_0134_midi062.opus",
+      "name": "slice_0134_midi062",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0134_midi062.opus",
+      "size": 3113
+    },
+    {
+      "file": "slice_0139_midi062.opus",
+      "name": "slice_0139_midi062",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0139_midi062.opus",
+      "size": 2701
+    },
+    {
+      "file": "slice_0141_midi062.opus",
+      "name": "slice_0141_midi062",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0141_midi062.opus",
+      "size": 5392
+    },
+    {
+      "file": "slice_0142_midi065.opus",
+      "name": "slice_0142_midi065",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0142_midi065.opus",
+      "size": 3583
+    },
+    {
+      "file": "slice_0147_midi057.opus",
+      "name": "slice_0147_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0147_midi057.opus",
+      "size": 3209
+    },
+    {
+      "file": "slice_0148_midi057.opus",
+      "name": "slice_0148_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0148_midi057.opus",
+      "size": 12007
+    },
+    {
+      "file": "slice_0149_midi057.opus",
+      "name": "slice_0149_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0149_midi057.opus",
+      "size": 5457
+    },
+    {
+      "file": "slice_0158_midi081.opus",
+      "name": "slice_0158_midi081",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0158_midi081.opus",
+      "size": 3800
+    },
+    {
+      "file": "slice_0171_midi096.opus",
+      "name": "slice_0171_midi096",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0171_midi096.opus",
+      "size": 2330
+    },
+    {
+      "file": "slice_0173_midi089.opus",
+      "name": "slice_0173_midi089",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0173_midi089.opus",
+      "size": 3841
+    },
+    {
+      "file": "slice_0174_midi074.opus",
+      "name": "slice_0174_midi074",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0174_midi074.opus",
+      "size": 3436
+    },
+    {
+      "file": "slice_0176_midi057.opus",
+      "name": "slice_0176_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0176_midi057.opus",
+      "size": 4062
+    },
+    {
+      "file": "slice_0181_midi057.opus",
+      "name": "slice_0181_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0181_midi057.opus",
+      "size": 20110
+    },
+    {
+      "file": "slice_0186_midi079.opus",
+      "name": "slice_0186_midi079",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0186_midi079.opus",
+      "size": 2648
+    },
+    {
+      "file": "slice_0187_midi079.opus",
+      "name": "slice_0187_midi079",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0187_midi079.opus",
+      "size": 2472
+    },
+    {
+      "file": "slice_0192_midi079.opus",
+      "name": "slice_0192_midi079",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0192_midi079.opus",
+      "size": 2575
+    },
+    {
+      "file": "slice_0198_midi081.opus",
+      "name": "slice_0198_midi081",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0198_midi081.opus",
+      "size": 2359
+    },
+    {
+      "file": "slice_0204_midi079.opus",
+      "name": "slice_0204_midi079",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0204_midi079.opus",
+      "size": 3113
+    },
+    {
+      "file": "slice_0207_midi074.opus",
+      "name": "slice_0207_midi074",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0207_midi074.opus",
+      "size": 9290
+    },
+    {
+      "file": "slice_0209_midi074.opus",
+      "name": "slice_0209_midi074",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0209_midi074.opus",
+      "size": 2785
+    },
+    {
+      "file": "slice_0216_midi074.opus",
+      "name": "slice_0216_midi074",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0216_midi074.opus",
+      "size": 3685
+    },
+    {
+      "file": "slice_0222_midi093.opus",
+      "name": "slice_0222_midi093",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0222_midi093.opus",
+      "size": 2562
+    },
+    {
+      "file": "slice_0223_midi093.opus",
+      "name": "slice_0223_midi093",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0223_midi093.opus",
+      "size": 2708
+    },
+    {
+      "file": "slice_0224_midi093.opus",
+      "name": "slice_0224_midi093",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0224_midi093.opus",
+      "size": 2253
+    },
+    {
+      "file": "slice_0225_midi076.opus",
+      "name": "slice_0225_midi076",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0225_midi076.opus",
+      "size": 4269
+    },
+    {
+      "file": "slice_0226_midi076.opus",
+      "name": "slice_0226_midi076",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0226_midi076.opus",
+      "size": 2265
+    },
+    {
+      "file": "slice_0227_midi093.opus",
+      "name": "slice_0227_midi093",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0227_midi093.opus",
+      "size": 2837
+    },
+    {
+      "file": "slice_0228_midi093.opus",
+      "name": "slice_0228_midi093",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0228_midi093.opus",
+      "size": 3556
+    },
+    {
+      "file": "slice_0229_midi093.opus",
+      "name": "slice_0229_midi093",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0229_midi093.opus",
+      "size": 2910
+    },
+    {
+      "file": "slice_0231_midi072.opus",
+      "name": "slice_0231_midi072",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0231_midi072.opus",
+      "size": 2637
+    },
+    {
+      "file": "slice_0232_midi079.opus",
+      "name": "slice_0232_midi079",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0232_midi079.opus",
+      "size": 2868
+    },
+    {
+      "file": "slice_0235_midi057.opus",
+      "name": "slice_0235_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0235_midi057.opus",
+      "size": 3605
+    },
+    {
+      "file": "slice_0236_midi057.opus",
+      "name": "slice_0236_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0236_midi057.opus",
+      "size": 2686
+    },
+    {
+      "file": "slice_0237_midi057.opus",
+      "name": "slice_0237_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0237_midi057.opus",
+      "size": 13260
+    },
+    {
+      "file": "slice_0240_midi072.opus",
+      "name": "slice_0240_midi072",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0240_midi072.opus",
+      "size": 2259
+    },
+    {
+      "file": "slice_0241_midi072.opus",
+      "name": "slice_0241_midi072",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0241_midi072.opus",
+      "size": 2262
+    },
+    {
+      "file": "slice_0243_midi072.opus",
+      "name": "slice_0243_midi072",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0243_midi072.opus",
+      "size": 2859
+    },
+    {
+      "file": "slice_0244_midi072.opus",
+      "name": "slice_0244_midi072",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0244_midi072.opus",
+      "size": 5284
+    },
+    {
+      "file": "slice_0246_midi072.opus",
+      "name": "slice_0246_midi072",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0246_midi072.opus",
+      "size": 3088
+    },
+    {
+      "file": "slice_0248_midi067.opus",
+      "name": "slice_0248_midi067",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0248_midi067.opus",
+      "size": 12331
+    },
+    {
+      "file": "slice_0249_midi069.opus",
+      "name": "slice_0249_midi069",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0249_midi069.opus",
+      "size": 4492
+    },
+    {
+      "file": "slice_0250_midi067.opus",
+      "name": "slice_0250_midi067",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0250_midi067.opus",
+      "size": 2434
+    },
+    {
+      "file": "slice_0251_midi067.opus",
+      "name": "slice_0251_midi067",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0251_midi067.opus",
+      "size": 7385
+    },
+    {
+      "file": "slice_0256_midi057.opus",
+      "name": "slice_0256_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0256_midi057.opus",
+      "size": 16927
+    },
+    {
+      "file": "slice_0260_midi057.opus",
+      "name": "slice_0260_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0260_midi057.opus",
+      "size": 15777
+    },
+    {
+      "file": "slice_0261_midi057.opus",
+      "name": "slice_0261_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0261_midi057.opus",
+      "size": 3297
+    },
+    {
+      "file": "slice_0269_midi057.opus",
+      "name": "slice_0269_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0269_midi057.opus",
+      "size": 4185
+    },
+    {
+      "file": "slice_0270_midi057.opus",
+      "name": "slice_0270_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0270_midi057.opus",
+      "size": 3646
+    },
+    {
+      "file": "slice_0273_midi067.opus",
+      "name": "slice_0273_midi067",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0273_midi067.opus",
+      "size": 4751
+    },
+    {
+      "file": "slice_0274_midi067.opus",
+      "name": "slice_0274_midi067",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0274_midi067.opus",
+      "size": 3217
+    },
+    {
+      "file": "slice_0277_midi057.opus",
+      "name": "slice_0277_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0277_midi057.opus",
+      "size": 4878
+    },
+    {
+      "file": "slice_0280_midi067.opus",
+      "name": "slice_0280_midi067",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0280_midi067.opus",
+      "size": 2425
+    },
+    {
+      "file": "slice_0281_midi067.opus",
+      "name": "slice_0281_midi067",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0281_midi067.opus",
+      "size": 3385
+    },
+    {
+      "file": "slice_0282_midi067.opus",
+      "name": "slice_0282_midi067",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0282_midi067.opus",
+      "size": 2559
+    },
+    {
+      "file": "slice_0284_midi057.opus",
+      "name": "slice_0284_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0284_midi057.opus",
+      "size": 3118
+    },
+    {
+      "file": "slice_0285_midi057.opus",
+      "name": "slice_0285_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0285_midi057.opus",
+      "size": 3086
+    },
+    {
+      "file": "slice_0286_midi055.opus",
+      "name": "slice_0286_midi055",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0286_midi055.opus",
+      "size": 3504
+    },
+    {
+      "file": "slice_0287_midi055.opus",
+      "name": "slice_0287_midi055",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0287_midi055.opus",
+      "size": 3521
+    },
+    {
+      "file": "slice_0290_midi057.opus",
+      "name": "slice_0290_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0290_midi057.opus",
+      "size": 5061
+    },
+    {
+      "file": "slice_0291_midi057.opus",
+      "name": "slice_0291_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0291_midi057.opus",
+      "size": 6299
+    },
+    {
+      "file": "slice_0296_midi065.opus",
+      "name": "slice_0296_midi065",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0296_midi065.opus",
+      "size": 3218
+    },
+    {
+      "file": "slice_0298_midi057.opus",
+      "name": "slice_0298_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0298_midi057.opus",
+      "size": 4411
+    },
+    {
+      "file": "slice_0299_midi057.opus",
+      "name": "slice_0299_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0299_midi057.opus",
+      "size": 3307
+    },
+    {
+      "file": "slice_0303_midi074.opus",
+      "name": "slice_0303_midi074",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0303_midi074.opus",
+      "size": 3138
+    },
+    {
+      "file": "slice_0306_midi074.opus",
+      "name": "slice_0306_midi074",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0306_midi074.opus",
+      "size": 9433
+    },
+    {
+      "file": "slice_0309_midi062.opus",
+      "name": "slice_0309_midi062",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0309_midi062.opus",
+      "size": 4481
+    },
+    {
+      "file": "slice_0313_midi057.opus",
+      "name": "slice_0313_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0313_midi057.opus",
+      "size": 5998
+    },
+    {
+      "file": "slice_0314_midi057.opus",
+      "name": "slice_0314_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0314_midi057.opus",
+      "size": 4221
+    },
+    {
+      "file": "slice_0315_midi057.opus",
+      "name": "slice_0315_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0315_midi057.opus",
+      "size": 3868
+    },
+    {
+      "file": "slice_0316_midi057.opus",
+      "name": "slice_0316_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0316_midi057.opus",
+      "size": 4046
+    },
+    {
+      "file": "slice_0317_midi057.opus",
+      "name": "slice_0317_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0317_midi057.opus",
+      "size": 5947
+    },
+    {
+      "file": "slice_0320_midi055.opus",
+      "name": "slice_0320_midi055",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0320_midi055.opus",
+      "size": 5126
+    },
+    {
+      "file": "slice_0321_midi057.opus",
+      "name": "slice_0321_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0321_midi057.opus",
+      "size": 5630
+    },
+    {
+      "file": "slice_0322_midi057.opus",
+      "name": "slice_0322_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0322_midi057.opus",
+      "size": 3673
+    },
+    {
+      "file": "slice_0323_midi057.opus",
+      "name": "slice_0323_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0323_midi057.opus",
+      "size": 5473
+    },
+    {
+      "file": "slice_0324_midi057.opus",
+      "name": "slice_0324_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0324_midi057.opus",
+      "size": 3776
+    },
+    {
+      "file": "slice_0325_midi057.opus",
+      "name": "slice_0325_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0325_midi057.opus",
+      "size": 3785
+    },
+    {
+      "file": "slice_0326_midi057.opus",
+      "name": "slice_0326_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0326_midi057.opus",
+      "size": 4193
+    },
+    {
+      "file": "slice_0327_midi057.opus",
+      "name": "slice_0327_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0327_midi057.opus",
+      "size": 4384
+    },
+    {
+      "file": "slice_0330_midi057.opus",
+      "name": "slice_0330_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0330_midi057.opus",
+      "size": 3528
+    },
+    {
+      "file": "slice_0331_midi057.opus",
+      "name": "slice_0331_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0331_midi057.opus",
+      "size": 4190
+    },
+    {
+      "file": "slice_0332_midi057.opus",
+      "name": "slice_0332_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0332_midi057.opus",
+      "size": 4388
+    },
+    {
+      "file": "slice_0333_midi057.opus",
+      "name": "slice_0333_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0333_midi057.opus",
+      "size": 4171
+    },
+    {
+      "file": "slice_0334_midi057.opus",
+      "name": "slice_0334_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0334_midi057.opus",
+      "size": 5152
+    },
+    {
+      "file": "slice_0335_midi057.opus",
+      "name": "slice_0335_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0335_midi057.opus",
+      "size": 3513
+    },
+    {
+      "file": "slice_0336_midi057.opus",
+      "name": "slice_0336_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0336_midi057.opus",
+      "size": 4564
+    },
+    {
+      "file": "slice_0337_midi057.opus",
+      "name": "slice_0337_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0337_midi057.opus",
+      "size": 4830
+    },
+    {
+      "file": "slice_0338_midi057.opus",
+      "name": "slice_0338_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0338_midi057.opus",
+      "size": 5245
+    },
+    {
+      "file": "slice_0339_midi057.opus",
+      "name": "slice_0339_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0339_midi057.opus",
+      "size": 4192
+    },
+    {
+      "file": "slice_0340_midi055.opus",
+      "name": "slice_0340_midi055",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0340_midi055.opus",
+      "size": 4138
+    },
+    {
+      "file": "slice_0341_midi055.opus",
+      "name": "slice_0341_midi055",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0341_midi055.opus",
+      "size": 2669
+    },
+    {
+      "file": "slice_0342_midi055.opus",
+      "name": "slice_0342_midi055",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0342_midi055.opus",
+      "size": 3812
+    },
+    {
+      "file": "slice_0343_midi055.opus",
+      "name": "slice_0343_midi055",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0343_midi055.opus",
+      "size": 2554
+    },
+    {
+      "file": "slice_0344_midi057.opus",
+      "name": "slice_0344_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0344_midi057.opus",
+      "size": 4468
+    },
+    {
+      "file": "slice_0345_midi057.opus",
+      "name": "slice_0345_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0345_midi057.opus",
+      "size": 3373
+    },
+    {
+      "file": "slice_0346_midi055.opus",
+      "name": "slice_0346_midi055",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0346_midi055.opus",
+      "size": 4159
+    },
+    {
+      "file": "slice_0349_midi057.opus",
+      "name": "slice_0349_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0349_midi057.opus",
+      "size": 3898
+    },
+    {
+      "file": "slice_0350_midi057.opus",
+      "name": "slice_0350_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0350_midi057.opus",
+      "size": 10243
+    },
+    {
+      "file": "slice_0351_midi057.opus",
+      "name": "slice_0351_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0351_midi057.opus",
+      "size": 7163
+    },
+    {
+      "file": "slice_0352_midi057.opus",
+      "name": "slice_0352_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0352_midi057.opus",
+      "size": 3003
+    },
+    {
+      "file": "slice_0354_midi057.opus",
+      "name": "slice_0354_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0354_midi057.opus",
+      "size": 3520
+    },
+    {
+      "file": "slice_0358_midi057.opus",
+      "name": "slice_0358_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0358_midi057.opus",
+      "size": 2886
+    },
+    {
+      "file": "slice_0361_midi057.opus",
+      "name": "slice_0361_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0361_midi057.opus",
+      "size": 4813
+    },
+    {
+      "file": "slice_0365_midi057.opus",
+      "name": "slice_0365_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0365_midi057.opus",
+      "size": 3555
+    },
+    {
+      "file": "slice_0371_midi057.opus",
+      "name": "slice_0371_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0371_midi057.opus",
+      "size": 2649
+    },
+    {
+      "file": "slice_0372_midi057.opus",
+      "name": "slice_0372_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0372_midi057.opus",
+      "size": 7139
+    },
+    {
+      "file": "slice_0374_midi058.opus",
+      "name": "slice_0374_midi058",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0374_midi058.opus",
+      "size": 3654
+    },
+    {
+      "file": "slice_0376_midi058.opus",
+      "name": "slice_0376_midi058",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0376_midi058.opus",
+      "size": 4978
+    },
+    {
+      "file": "slice_0378_midi057.opus",
+      "name": "slice_0378_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0378_midi057.opus",
+      "size": 2334
+    },
+    {
+      "file": "slice_0379_midi057.opus",
+      "name": "slice_0379_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0379_midi057.opus",
+      "size": 3821
+    },
+    {
+      "file": "slice_0382_midi057.opus",
+      "name": "slice_0382_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0382_midi057.opus",
+      "size": 3044
+    },
+    {
+      "file": "slice_0383_midi057.opus",
+      "name": "slice_0383_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0383_midi057.opus",
+      "size": 15870
+    },
+    {
+      "file": "slice_0384_midi057.opus",
+      "name": "slice_0384_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0384_midi057.opus",
+      "size": 9438
+    },
+    {
+      "file": "slice_0385_midi057.opus",
+      "name": "slice_0385_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0385_midi057.opus",
+      "size": 8610
+    },
+    {
+      "file": "slice_0386_midi057.opus",
+      "name": "slice_0386_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0386_midi057.opus",
+      "size": 12383
+    },
+    {
+      "file": "slice_0387_midi057.opus",
+      "name": "slice_0387_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0387_midi057.opus",
+      "size": 10964
+    },
+    {
+      "file": "slice_0388_midi057.opus",
+      "name": "slice_0388_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0388_midi057.opus",
+      "size": 21296
+    },
+    {
+      "file": "slice_0389_midi057.opus",
+      "name": "slice_0389_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0389_midi057.opus",
+      "size": 15697
+    },
+    {
+      "file": "slice_0390_midi057.opus",
+      "name": "slice_0390_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0390_midi057.opus",
+      "size": 3900
+    },
+    {
+      "file": "slice_0391_midi057.opus",
+      "name": "slice_0391_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0391_midi057.opus",
+      "size": 16799
+    },
+    {
+      "file": "slice_0395_midi062.opus",
+      "name": "slice_0395_midi062",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0395_midi062.opus",
+      "size": 31087
+    },
+    {
+      "file": "slice_0396_midi055.opus",
+      "name": "slice_0396_midi055",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0396_midi055.opus",
+      "size": 2911
+    },
+    {
+      "file": "slice_0397_midi055.opus",
+      "name": "slice_0397_midi055",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0397_midi055.opus",
+      "size": 10539
+    },
+    {
+      "file": "slice_0398_midi055.opus",
+      "name": "slice_0398_midi055",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0398_midi055.opus",
+      "size": 3789
+    },
+    {
+      "file": "slice_0400_midi055.opus",
+      "name": "slice_0400_midi055",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0400_midi055.opus",
+      "size": 8665
+    },
+    {
+      "file": "slice_0402_midi079.opus",
+      "name": "slice_0402_midi079",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0402_midi079.opus",
+      "size": 3837
+    },
+    {
+      "file": "slice_0408_midi089.opus",
+      "name": "slice_0408_midi089",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0408_midi089.opus",
+      "size": 2626
+    },
+    {
+      "file": "slice_0414_midi090.opus",
+      "name": "slice_0414_midi090",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0414_midi090.opus",
+      "size": 2820
+    },
+    {
+      "file": "slice_0417_midi096.opus",
+      "name": "slice_0417_midi096",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0417_midi096.opus",
+      "size": 4177
+    },
+    {
+      "file": "slice_0418_midi088.opus",
+      "name": "slice_0418_midi088",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0418_midi088.opus",
+      "size": 3360
+    },
+    {
+      "file": "slice_0420_midi081.opus",
+      "name": "slice_0420_midi081",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0420_midi081.opus",
+      "size": 5237
+    },
+    {
+      "file": "slice_0424_midi096.opus",
+      "name": "slice_0424_midi096",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0424_midi096.opus",
+      "size": 2894
+    },
+    {
+      "file": "slice_0433_midi078.opus",
+      "name": "slice_0433_midi078",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0433_midi078.opus",
+      "size": 2743
+    },
+    {
+      "file": "slice_0438_midi079.opus",
+      "name": "slice_0438_midi079",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0438_midi079.opus",
+      "size": 3459
+    },
+    {
+      "file": "slice_0442_midi079.opus",
+      "name": "slice_0442_midi079",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0442_midi079.opus",
+      "size": 2279
+    },
+    {
+      "file": "slice_0449_midi106.opus",
+      "name": "slice_0449_midi106",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0449_midi106.opus",
+      "size": 2945
+    },
+    {
+      "file": "slice_0454_midi079.opus",
+      "name": "slice_0454_midi079",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0454_midi079.opus",
+      "size": 2610
+    },
+    {
+      "file": "slice_0455_midi079.opus",
+      "name": "slice_0455_midi079",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0455_midi079.opus",
+      "size": 3797
+    },
+    {
+      "file": "slice_0457_midi079.opus",
+      "name": "slice_0457_midi079",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0457_midi079.opus",
+      "size": 3130
+    },
+    {
+      "file": "slice_0461_midi093.opus",
+      "name": "slice_0461_midi093",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0461_midi093.opus",
+      "size": 2710
+    },
+    {
+      "file": "slice_0463_midi078.opus",
+      "name": "slice_0463_midi078",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0463_midi078.opus",
+      "size": 3153
+    },
+    {
+      "file": "slice_0465_midi086.opus",
+      "name": "slice_0465_midi086",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0465_midi086.opus",
+      "size": 4025
+    },
+    {
+      "file": "slice_0469_midi078.opus",
+      "name": "slice_0469_midi078",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0469_midi078.opus",
+      "size": 2706
+    },
+    {
+      "file": "slice_0476_midi079.opus",
+      "name": "slice_0476_midi079",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0476_midi079.opus",
+      "size": 2437
+    },
+    {
+      "file": "slice_0479_midi077.opus",
+      "name": "slice_0479_midi077",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0479_midi077.opus",
+      "size": 2267
+    },
+    {
+      "file": "slice_0480_midi087.opus",
+      "name": "slice_0480_midi087",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0480_midi087.opus",
+      "size": 3207
+    },
+    {
+      "file": "slice_0486_midi072.opus",
+      "name": "slice_0486_midi072",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0486_midi072.opus",
+      "size": 2586
+    },
+    {
+      "file": "slice_0488_midi072.opus",
+      "name": "slice_0488_midi072",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0488_midi072.opus",
+      "size": 2866
+    },
+    {
+      "file": "slice_0489_midi072.opus",
+      "name": "slice_0489_midi072",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0489_midi072.opus",
+      "size": 3872
+    },
+    {
+      "file": "slice_0497_midi083.opus",
+      "name": "slice_0497_midi083",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0497_midi083.opus",
+      "size": 6921
+    },
+    {
+      "file": "slice_0499_midi073.opus",
+      "name": "slice_0499_midi073",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0499_midi073.opus",
+      "size": 4745
+    },
+    {
+      "file": "slice_0505_midi074.opus",
+      "name": "slice_0505_midi074",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0505_midi074.opus",
+      "size": 4271
+    },
+    {
+      "file": "slice_0507_midi071.opus",
+      "name": "slice_0507_midi071",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0507_midi071.opus",
+      "size": 2546
+    },
+    {
+      "file": "slice_0508_midi072.opus",
+      "name": "slice_0508_midi072",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0508_midi072.opus",
+      "size": 6047
+    },
+    {
+      "file": "slice_0510_midi072.opus",
+      "name": "slice_0510_midi072",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0510_midi072.opus",
+      "size": 3028
+    },
+    {
+      "file": "slice_0511_midi072.opus",
+      "name": "slice_0511_midi072",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0511_midi072.opus",
+      "size": 4530
+    },
+    {
+      "file": "slice_0512_midi074.opus",
+      "name": "slice_0512_midi074",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0512_midi074.opus",
+      "size": 4203
+    },
+    {
+      "file": "slice_0515_midi072.opus",
+      "name": "slice_0515_midi072",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0515_midi072.opus",
+      "size": 26099
+    },
+    {
+      "file": "slice_0516_midi090.opus",
+      "name": "slice_0516_midi090",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0516_midi090.opus",
+      "size": 2856
+    },
+    {
+      "file": "slice_0526_midi055.opus",
+      "name": "slice_0526_midi055",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0526_midi055.opus",
+      "size": 4235
+    },
+    {
+      "file": "slice_0531_midi057.opus",
+      "name": "slice_0531_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0531_midi057.opus",
+      "size": 17439
+    },
+    {
+      "file": "slice_0532_midi072.opus",
+      "name": "slice_0532_midi072",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0532_midi072.opus",
+      "size": 27741
+    },
+    {
+      "file": "slice_0534_midi071.opus",
+      "name": "slice_0534_midi071",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0534_midi071.opus",
+      "size": 3813
+    },
+    {
+      "file": "slice_0538_midi073.opus",
+      "name": "slice_0538_midi073",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0538_midi073.opus",
+      "size": 21476
+    },
+    {
+      "file": "slice_0554_midi050.opus",
+      "name": "slice_0554_midi050",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0554_midi050.opus",
+      "size": 3695
+    },
+    {
+      "file": "slice_0557_midi071.opus",
+      "name": "slice_0557_midi071",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0557_midi071.opus",
+      "size": 3688
+    },
+    {
+      "file": "slice_0562_midi071.opus",
+      "name": "slice_0562_midi071",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0562_midi071.opus",
+      "size": 4358
+    },
+    {
+      "file": "slice_0571_midi071.opus",
+      "name": "slice_0571_midi071",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0571_midi071.opus",
+      "size": 4323
+    },
+    {
+      "file": "slice_0573_midi072.opus",
+      "name": "slice_0573_midi072",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0573_midi072.opus",
+      "size": 3365
+    },
+    {
+      "file": "slice_0575_midi072.opus",
+      "name": "slice_0575_midi072",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0575_midi072.opus",
+      "size": 4215
+    },
+    {
+      "file": "slice_0590_midi079.opus",
+      "name": "slice_0590_midi079",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0590_midi079.opus",
+      "size": 3418
+    },
+    {
+      "file": "slice_0603_midi079.opus",
+      "name": "slice_0603_midi079",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0603_midi079.opus",
+      "size": 4139
+    },
+    {
+      "file": "slice_0631_midi075.opus",
+      "name": "slice_0631_midi075",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0631_midi075.opus",
+      "size": 7128
+    },
+    {
+      "file": "slice_0638_midi057.opus",
+      "name": "slice_0638_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0638_midi057.opus",
+      "size": 3411
+    },
+    {
+      "file": "slice_0639_midi057.opus",
+      "name": "slice_0639_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0639_midi057.opus",
+      "size": 4574
+    },
+    {
+      "file": "slice_0640_midi057.opus",
+      "name": "slice_0640_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0640_midi057.opus",
+      "size": 2785
+    },
+    {
+      "file": "slice_0641_midi057.opus",
+      "name": "slice_0641_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0641_midi057.opus",
+      "size": 2935
+    },
+    {
+      "file": "slice_0642_midi057.opus",
+      "name": "slice_0642_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0642_midi057.opus",
+      "size": 3121
+    },
+    {
+      "file": "slice_0643_midi057.opus",
+      "name": "slice_0643_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0643_midi057.opus",
+      "size": 2955
+    },
+    {
+      "file": "slice_0644_midi057.opus",
+      "name": "slice_0644_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0644_midi057.opus",
+      "size": 3544
+    },
+    {
+      "file": "slice_0645_midi057.opus",
+      "name": "slice_0645_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0645_midi057.opus",
+      "size": 3054
+    },
+    {
+      "file": "slice_0648_midi057.opus",
+      "name": "slice_0648_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0648_midi057.opus",
+      "size": 2789
+    },
+    {
+      "file": "slice_0649_midi057.opus",
+      "name": "slice_0649_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0649_midi057.opus",
+      "size": 3802
+    },
+    {
+      "file": "slice_0650_midi057.opus",
+      "name": "slice_0650_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0650_midi057.opus",
+      "size": 3678
+    },
+    {
+      "file": "slice_0653_midi058.opus",
+      "name": "slice_0653_midi058",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0653_midi058.opus",
+      "size": 2541
+    },
+    {
+      "file": "slice_0654_midi058.opus",
+      "name": "slice_0654_midi058",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0654_midi058.opus",
+      "size": 3142
+    },
+    {
+      "file": "slice_0659_midi057.opus",
+      "name": "slice_0659_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0659_midi057.opus",
+      "size": 3815
+    },
+    {
+      "file": "slice_0660_midi057.opus",
+      "name": "slice_0660_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0660_midi057.opus",
+      "size": 3110
+    },
+    {
+      "file": "slice_0661_midi057.opus",
+      "name": "slice_0661_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0661_midi057.opus",
+      "size": 25364
+    },
+    {
+      "file": "slice_0663_midi057.opus",
+      "name": "slice_0663_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0663_midi057.opus",
+      "size": 2976
+    },
+    {
+      "file": "slice_0665_midi063.opus",
+      "name": "slice_0665_midi063",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0665_midi063.opus",
+      "size": 2242
+    },
+    {
+      "file": "slice_0666_midi057.opus",
+      "name": "slice_0666_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0666_midi057.opus",
+      "size": 2857
+    },
+    {
+      "file": "slice_0670_midi057.opus",
+      "name": "slice_0670_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0670_midi057.opus",
+      "size": 4882
+    },
+    {
+      "file": "slice_0671_midi063.opus",
+      "name": "slice_0671_midi063",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0671_midi063.opus",
+      "size": 3766
+    },
+    {
+      "file": "slice_0673_midi056.opus",
+      "name": "slice_0673_midi056",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0673_midi056.opus",
+      "size": 2791
+    },
+    {
+      "file": "slice_0674_midi056.opus",
+      "name": "slice_0674_midi056",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0674_midi056.opus",
+      "size": 2997
+    },
+    {
+      "file": "slice_0679_midi057.opus",
+      "name": "slice_0679_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0679_midi057.opus",
+      "size": 2346
+    },
+    {
+      "file": "slice_0683_midi072.opus",
+      "name": "slice_0683_midi072",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0683_midi072.opus",
+      "size": 3451
+    },
+    {
+      "file": "slice_0684_midi057.opus",
+      "name": "slice_0684_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0684_midi057.opus",
+      "size": 2915
+    },
+    {
+      "file": "slice_0685_midi057.opus",
+      "name": "slice_0685_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0685_midi057.opus",
+      "size": 2252
+    },
+    {
+      "file": "slice_0689_midi066.opus",
+      "name": "slice_0689_midi066",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0689_midi066.opus",
+      "size": 8399
+    },
+    {
+      "file": "slice_0693_midi066.opus",
+      "name": "slice_0693_midi066",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0693_midi066.opus",
+      "size": 4982
+    },
+    {
+      "file": "slice_0694_midi067.opus",
+      "name": "slice_0694_midi067",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0694_midi067.opus",
+      "size": 7722
+    },
+    {
+      "file": "slice_0695_midi057.opus",
+      "name": "slice_0695_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0695_midi057.opus",
+      "size": 5143
+    },
+    {
+      "file": "slice_0700_midi056.opus",
+      "name": "slice_0700_midi056",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0700_midi056.opus",
+      "size": 3270
+    },
+    {
+      "file": "slice_0701_midi057.opus",
+      "name": "slice_0701_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0701_midi057.opus",
+      "size": 2994
+    },
+    {
+      "file": "slice_0703_midi057.opus",
+      "name": "slice_0703_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0703_midi057.opus",
+      "size": 3519
+    },
+    {
+      "file": "slice_0707_midi106.opus",
+      "name": "slice_0707_midi106",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0707_midi106.opus",
+      "size": 19894
+    },
+    {
+      "file": "slice_0708_midi098.opus",
+      "name": "slice_0708_midi098",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0708_midi098.opus",
+      "size": 8541
+    },
+    {
+      "file": "slice_0710_midi098.opus",
+      "name": "slice_0710_midi098",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0710_midi098.opus",
+      "size": 3126
+    },
+    {
+      "file": "slice_0711_midi090.opus",
+      "name": "slice_0711_midi090",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0711_midi090.opus",
+      "size": 11092
+    },
+    {
+      "file": "slice_0716_midi102.opus",
+      "name": "slice_0716_midi102",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0716_midi102.opus",
+      "size": 4639
+    },
+    {
+      "file": "slice_0718_midi098.opus",
+      "name": "slice_0718_midi098",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0718_midi098.opus",
+      "size": 20728
+    },
+    {
+      "file": "slice_0719_midi102.opus",
+      "name": "slice_0719_midi102",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0719_midi102.opus",
+      "size": 12753
+    },
+    {
+      "file": "slice_0721_midi105.opus",
+      "name": "slice_0721_midi105",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0721_midi105.opus",
+      "size": 29338
+    },
+    {
+      "file": "slice_0722_midi106.opus",
+      "name": "slice_0722_midi106",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0722_midi106.opus",
+      "size": 23521
+    },
+    {
+      "file": "slice_0724_midi105.opus",
+      "name": "slice_0724_midi105",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0724_midi105.opus",
+      "size": 13820
+    },
+    {
+      "file": "slice_0725_midi105.opus",
+      "name": "slice_0725_midi105",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0725_midi105.opus",
+      "size": 3365
+    },
+    {
+      "file": "slice_0726_midi105.opus",
+      "name": "slice_0726_midi105",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0726_midi105.opus",
+      "size": 5110
+    },
+    {
+      "file": "slice_0727_midi105.opus",
+      "name": "slice_0727_midi105",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0727_midi105.opus",
+      "size": 4064
+    },
+    {
+      "file": "slice_0728_midi105.opus",
+      "name": "slice_0728_midi105",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0728_midi105.opus",
+      "size": 3452
+    },
+    {
+      "file": "slice_0731_midi102.opus",
+      "name": "slice_0731_midi102",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0731_midi102.opus",
+      "size": 23842
+    },
+    {
+      "file": "slice_0733_midi102.opus",
+      "name": "slice_0733_midi102",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0733_midi102.opus",
+      "size": 4050
+    },
+    {
+      "file": "slice_0734_midi102.opus",
+      "name": "slice_0734_midi102",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0734_midi102.opus",
+      "size": 16902
+    },
+    {
+      "file": "slice_0736_midi106.opus",
+      "name": "slice_0736_midi106",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0736_midi106.opus",
+      "size": 23127
+    },
+    {
+      "file": "slice_0737_midi106.opus",
+      "name": "slice_0737_midi106",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0737_midi106.opus",
+      "size": 22150
+    },
+    {
+      "file": "slice_0740_midi102.opus",
+      "name": "slice_0740_midi102",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0740_midi102.opus",
+      "size": 3382
+    },
+    {
+      "file": "slice_0743_midi098.opus",
+      "name": "slice_0743_midi098",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0743_midi098.opus",
+      "size": 23455
+    },
+    {
+      "file": "slice_0745_midi082.opus",
+      "name": "slice_0745_midi082",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0745_midi082.opus",
+      "size": 20810
+    },
+    {
+      "file": "slice_0750_midi098.opus",
+      "name": "slice_0750_midi098",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0750_midi098.opus",
+      "size": 4564
+    },
+    {
+      "file": "slice_0751_midi106.opus",
+      "name": "slice_0751_midi106",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0751_midi106.opus",
+      "size": 5051
+    },
+    {
+      "file": "slice_0753_midi094.opus",
+      "name": "slice_0753_midi094",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0753_midi094.opus",
+      "size": 6608
+    },
+    {
+      "file": "slice_0754_midi106.opus",
+      "name": "slice_0754_midi106",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0754_midi106.opus",
+      "size": 2584
+    },
+    {
+      "file": "slice_0755_midi102.opus",
+      "name": "slice_0755_midi102",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0755_midi102.opus",
+      "size": 3795
+    },
+    {
+      "file": "slice_0757_midi086.opus",
+      "name": "slice_0757_midi086",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0757_midi086.opus",
+      "size": 2936
+    },
+    {
+      "file": "slice_0758_midi103.opus",
+      "name": "slice_0758_midi103",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0758_midi103.opus",
+      "size": 12931
+    },
+    {
+      "file": "slice_0760_midi103.opus",
+      "name": "slice_0760_midi103",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0760_midi103.opus",
+      "size": 3271
+    },
+    {
+      "file": "slice_0761_midi106.opus",
+      "name": "slice_0761_midi106",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0761_midi106.opus",
+      "size": 2556
+    },
+    {
+      "file": "slice_0765_midi106.opus",
+      "name": "slice_0765_midi106",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0765_midi106.opus",
+      "size": 2682
+    },
+    {
+      "file": "slice_0768_midi082.opus",
+      "name": "slice_0768_midi082",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0768_midi082.opus",
+      "size": 4821
+    },
+    {
+      "file": "slice_0770_midi106.opus",
+      "name": "slice_0770_midi106",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0770_midi106.opus",
+      "size": 3789
+    },
+    {
+      "file": "slice_0771_midi106.opus",
+      "name": "slice_0771_midi106",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0771_midi106.opus",
+      "size": 2827
+    },
+    {
+      "file": "slice_0773_midi106.opus",
+      "name": "slice_0773_midi106",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0773_midi106.opus",
+      "size": 2285
+    },
+    {
+      "file": "slice_0775_midi106.opus",
+      "name": "slice_0775_midi106",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0775_midi106.opus",
+      "size": 4221
+    },
+    {
+      "file": "slice_0776_midi103.opus",
+      "name": "slice_0776_midi103",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0776_midi103.opus",
+      "size": 5037
+    },
+    {
+      "file": "slice_0778_midi082.opus",
+      "name": "slice_0778_midi082",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0778_midi082.opus",
+      "size": 19284
+    },
+    {
+      "file": "slice_0780_midi093.opus",
+      "name": "slice_0780_midi093",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0780_midi093.opus",
+      "size": 5705
+    },
+    {
+      "file": "slice_0781_midi105.opus",
+      "name": "slice_0781_midi105",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0781_midi105.opus",
+      "size": 21880
+    },
+    {
+      "file": "slice_0783_midi093.opus",
+      "name": "slice_0783_midi093",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0783_midi093.opus",
+      "size": 25946
+    },
+    {
+      "file": "slice_0784_midi079.opus",
+      "name": "slice_0784_midi079",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0784_midi079.opus",
+      "size": 5979
+    },
+    {
+      "file": "slice_0785_midi106.opus",
+      "name": "slice_0785_midi106",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0785_midi106.opus",
+      "size": 9519
+    },
+    {
+      "file": "slice_0786_midi105.opus",
+      "name": "slice_0786_midi105",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0786_midi105.opus",
+      "size": 15865
+    },
+    {
+      "file": "slice_0788_midi102.opus",
+      "name": "slice_0788_midi102",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0788_midi102.opus",
+      "size": 4501
+    },
+    {
+      "file": "slice_0789_midi102.opus",
+      "name": "slice_0789_midi102",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0789_midi102.opus",
+      "size": 16149
+    },
+    {
+      "file": "slice_0790_midi102.opus",
+      "name": "slice_0790_midi102",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0790_midi102.opus",
+      "size": 3446
+    },
+    {
+      "file": "slice_0791_midi082.opus",
+      "name": "slice_0791_midi082",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0791_midi082.opus",
+      "size": 21667
+    },
+    {
+      "file": "slice_0792_midi101.opus",
+      "name": "slice_0792_midi101",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0792_midi101.opus",
+      "size": 33303
+    },
+    {
+      "file": "slice_0795_midi090.opus",
+      "name": "slice_0795_midi090",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0795_midi090.opus",
+      "size": 17711
+    },
+    {
+      "file": "slice_0796_midi079.opus",
+      "name": "slice_0796_midi079",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0796_midi079.opus",
+      "size": 23197
+    },
+    {
+      "file": "slice_0797_midi103.opus",
+      "name": "slice_0797_midi103",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0797_midi103.opus",
+      "size": 28029
+    },
+    {
+      "file": "slice_0800_midi105.opus",
+      "name": "slice_0800_midi105",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0800_midi105.opus",
+      "size": 5052
+    },
+    {
+      "file": "slice_0801_midi106.opus",
+      "name": "slice_0801_midi106",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0801_midi106.opus",
+      "size": 5018
+    },
+    {
+      "file": "slice_0804_midi103.opus",
+      "name": "slice_0804_midi103",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0804_midi103.opus",
+      "size": 8102
+    },
+    {
+      "file": "slice_0806_midi105.opus",
+      "name": "slice_0806_midi105",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0806_midi105.opus",
+      "size": 8733
+    },
+    {
+      "file": "slice_0809_midi105.opus",
+      "name": "slice_0809_midi105",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0809_midi105.opus",
+      "size": 2943
+    },
+    {
+      "file": "slice_0810_midi105.opus",
+      "name": "slice_0810_midi105",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0810_midi105.opus",
+      "size": 19212
+    },
+    {
+      "file": "slice_0811_midi105.opus",
+      "name": "slice_0811_midi105",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0811_midi105.opus",
+      "size": 29728
+    },
+    {
+      "file": "slice_0814_midi106.opus",
+      "name": "slice_0814_midi106",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0814_midi106.opus",
+      "size": 2477
+    },
+    {
+      "file": "slice_0815_midi082.opus",
+      "name": "slice_0815_midi082",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0815_midi082.opus",
+      "size": 23534
+    },
+    {
+      "file": "slice_0817_midi056.opus",
+      "name": "slice_0817_midi056",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0817_midi056.opus",
+      "size": 3567
+    },
+    {
+      "file": "slice_0818_midi056.opus",
+      "name": "slice_0818_midi056",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0818_midi056.opus",
+      "size": 3451
+    },
+    {
+      "file": "slice_0819_midi056.opus",
+      "name": "slice_0819_midi056",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0819_midi056.opus",
+      "size": 3259
+    },
+    {
+      "file": "slice_0820_midi057.opus",
+      "name": "slice_0820_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0820_midi057.opus",
+      "size": 3346
+    },
+    {
+      "file": "slice_0821_midi056.opus",
+      "name": "slice_0821_midi056",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0821_midi056.opus",
+      "size": 2434
+    },
+    {
+      "file": "slice_0822_midi056.opus",
+      "name": "slice_0822_midi056",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0822_midi056.opus",
+      "size": 3392
+    },
+    {
+      "file": "slice_0824_midi056.opus",
+      "name": "slice_0824_midi056",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0824_midi056.opus",
+      "size": 3430
+    },
+    {
+      "file": "slice_0830_midi056.opus",
+      "name": "slice_0830_midi056",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0830_midi056.opus",
+      "size": 2809
+    },
+    {
+      "file": "slice_0831_midi056.opus",
+      "name": "slice_0831_midi056",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0831_midi056.opus",
+      "size": 2342
+    },
+    {
+      "file": "slice_0832_midi056.opus",
+      "name": "slice_0832_midi056",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0832_midi056.opus",
+      "size": 3209
+    },
+    {
+      "file": "slice_0833_midi057.opus",
+      "name": "slice_0833_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0833_midi057.opus",
+      "size": 2926
+    },
+    {
+      "file": "slice_0834_midi056.opus",
+      "name": "slice_0834_midi056",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0834_midi056.opus",
+      "size": 3316
+    },
+    {
+      "file": "slice_0835_midi056.opus",
+      "name": "slice_0835_midi056",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0835_midi056.opus",
+      "size": 3423
+    },
+    {
+      "file": "slice_0839_midi056.opus",
+      "name": "slice_0839_midi056",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0839_midi056.opus",
+      "size": 3285
+    },
+    {
+      "file": "slice_0840_midi056.opus",
+      "name": "slice_0840_midi056",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0840_midi056.opus",
+      "size": 2338
+    },
+    {
+      "file": "slice_0841_midi057.opus",
+      "name": "slice_0841_midi057",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0841_midi057.opus",
+      "size": 2411
+    },
+    {
+      "file": "slice_0842_midi056.opus",
+      "name": "slice_0842_midi056",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0842_midi056.opus",
+      "size": 2404
+    },
+    {
+      "file": "slice_0843_midi056.opus",
+      "name": "slice_0843_midi056",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0843_midi056.opus",
+      "size": 3451
+    },
+    {
+      "file": "slice_0844_midi056.opus",
+      "name": "slice_0844_midi056",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0844_midi056.opus",
+      "size": 2758
+    },
+    {
+      "file": "slice_0845_midi056.opus",
+      "name": "slice_0845_midi056",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0845_midi056.opus",
+      "size": 2463
+    },
+    {
+      "file": "slice_0846_midi056.opus",
+      "name": "slice_0846_midi056",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0846_midi056.opus",
+      "size": 2441
+    },
+    {
+      "file": "slice_0847_midi056.opus",
+      "name": "slice_0847_midi056",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0847_midi056.opus",
+      "size": 2206
+    },
+    {
+      "file": "slice_0849_midi098.opus",
+      "name": "slice_0849_midi098",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0849_midi098.opus",
+      "size": 24122
+    },
+    {
+      "file": "slice_0850_midi102.opus",
+      "name": "slice_0850_midi102",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0850_midi102.opus",
+      "size": 5520
+    },
+    {
+      "file": "slice_0851_midi106.opus",
+      "name": "slice_0851_midi106",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0851_midi106.opus",
+      "size": 2666
+    },
+    {
+      "file": "slice_0852_midi102.opus",
+      "name": "slice_0852_midi102",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0852_midi102.opus",
+      "size": 4457
+    },
+    {
+      "file": "slice_0855_midi103.opus",
+      "name": "slice_0855_midi103",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0855_midi103.opus",
+      "size": 4877
+    },
+    {
+      "file": "slice_0858_midi102.opus",
+      "name": "slice_0858_midi102",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0858_midi102.opus",
+      "size": 4177
+    },
+    {
+      "file": "slice_0860_midi106.opus",
+      "name": "slice_0860_midi106",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0860_midi106.opus",
+      "size": 2724
+    },
+    {
+      "file": "slice_0861_midi102.opus",
+      "name": "slice_0861_midi102",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0861_midi102.opus",
+      "size": 3540
+    },
+    {
+      "file": "slice_0862_midi106.opus",
+      "name": "slice_0862_midi106",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0862_midi106.opus",
+      "size": 4384
+    },
+    {
+      "file": "slice_0867_midi103.opus",
+      "name": "slice_0867_midi103",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0867_midi103.opus",
+      "size": 3480
+    },
+    {
+      "file": "slice_0868_midi103.opus",
+      "name": "slice_0868_midi103",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0868_midi103.opus",
+      "size": 5465
+    },
+    {
+      "file": "slice_0871_midi094.opus",
+      "name": "slice_0871_midi094",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0871_midi094.opus",
+      "size": 7477
+    },
+    {
+      "file": "slice_0884_midi093.opus",
+      "name": "slice_0884_midi093",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0884_midi093.opus",
+      "size": 23934
+    },
+    {
+      "file": "slice_0887_midi106.opus",
+      "name": "slice_0887_midi106",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0887_midi106.opus",
+      "size": 2329
+    }
+  ],
+  "quality": {
+    "sampleRate": 22050,
+    "duration": 1474.0,
+    "dcOffset": 1.1e-05,
+    "peakAmplitude": 0.9507,
+    "noiseFloorDb": -200.0,
+    "noiseFloorRms": 0.0,
+    "dynamicRangeDb": 0.0,
+    "silenceRatio": 0.0,
+    "clippedSamples": 0,
+    "clipRatio": 0.0,
+    "clipRuns": 0,
+    "clickCount": 1153,
+    "humFrequencies": [],
+    "qualityScore": 75
+  }
+}
