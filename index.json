@@ -1,8 +1,8 @@
 {
   "library": "Guzheng (Plucked Sliced)",
   "format": "opus-48k+flac",
-  "opusFileCount": 375,
-  "flacFileCount": 375,
+  "opusFileCount": 374,
+  "flacFileCount": 374,
   "files": [
     {
       "file": "slice_0006_midi057.opus",
@@ -122,7 +122,7 @@
       "file": "slice_0045_midi060.opus",
       "name": "slice_0045_midi060",
       "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0045_midi060.opus",
-      "size": 11592
+      "size": 12039
     },
     {
       "file": "slice_0047_midi057.opus",
@@ -461,12 +461,6 @@
       "size": 2837
     },
     {
-      "file": "slice_0228_midi093.opus",
-      "name": "slice_0228_midi093",
-      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0228_midi093.opus",
-      "size": 3556
-    },
-    {
       "file": "slice_0229_midi093.opus",
       "name": "slice_0229_midi093",
       "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0229_midi093.opus",
@@ -692,7 +686,7 @@
       "file": "slice_0309_midi062.opus",
       "name": "slice_0309_midi062",
       "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0309_midi062.opus",
-      "size": 4481
+      "size": 3799
     },
     {
       "file": "slice_0313_midi057.opus",
@@ -938,7 +932,7 @@
       "file": "slice_0374_midi058.opus",
       "name": "slice_0374_midi058",
       "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0374_midi058.opus",
-      "size": 3654
+      "size": 4377
     },
     {
       "file": "slice_0376_midi058.opus",
