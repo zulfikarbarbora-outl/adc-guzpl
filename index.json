@@ -1,8 +1,8 @@
 {
   "library": "Guzheng (Plucked Sliced)",
   "format": "opus-48k+flac",
-  "opusFileCount": 373,
-  "flacFileCount": 373,
+  "opusFileCount": 376,
+  "flacFileCount": 376,
   "files": [
     {
       "file": "slice_0006_midi057.opus",
@@ -2241,7 +2241,10 @@
       "name": "slice_0890_midi059",
       "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0890_midi059.opus",
       "size": 6759
-    }
+    },
+    {"file": "slice_0788_midi079.opus", "name": "slice_0788_midi079", "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0788_midi079.opus", "size": 3133},
+    {"file": "slice_0849_midi056.opus", "name": "slice_0849_midi056", "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0849_midi056.opus", "size": 3104},
+    {"file": "slice_0887_midi052.opus", "name": "slice_0887_midi052", "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/adc-guzpl/main/slice_0887_midi052.opus", "size": 4481}
   ],
   "quality": {
     "sampleRate": 22050,
