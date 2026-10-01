@@ -2251,15 +2251,15 @@
     "duration": 1474.0,
     "dcOffset": 1.1e-05,
     "peakAmplitude": 0.9507,
-    "noiseFloorDb": -200.0,
-    "noiseFloorRms": 0.0,
-    "dynamicRangeDb": 0.0,
-    "silenceRatio": 0.0,
+    "noiseFloorDb": -44.4,
+    "noiseFloorRms": 0.006059,
+    "dynamicRangeDb": 43.9,
+    "silenceRatio": 0.6209,
     "clippedSamples": 0,
     "clipRatio": 0.0,
     "clipRuns": 0,
     "clickCount": 1153,
     "humFrequencies": [],
-    "qualityScore": 75
+    "qualityScore": 70
   }
 }
